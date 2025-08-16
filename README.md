@@ -21,7 +21,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 Before you begin, ensure you have met the following requirements:
 
 - [Node.js](https://nodejs.org/) (v16.8 or newer recommended)
-- [npm](https://www.npmjs.com/),
+- [npm](https://www.npmjs.com/)
 
 ---
 
